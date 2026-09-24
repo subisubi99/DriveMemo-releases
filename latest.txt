@@ -1,6 +1,7 @@
-version=0.9.51
+version=0.9.52
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-sha256=02725b8c637ccde1735e1f07bccc4ec741fab278d193f892dc15b4bd5282f0a8
+sha256=3d6b1fb049501d18fc0815de2ab9deda3ef547bf1c4814226bfe0eecf4b959d3
 notes:
-- 검색어가 있는 곳으로 스크롤·선택, Enter(F3)로 다음·Shift+Enter(Shift+F3)로 이전 검색어
-- 전각 숫자·영문(５６７７)도 보통 글자(5677)와 똑같이 검색
+- 선택한 메모 합치기: 메뉴 줄 [메모 합치기] 버튼·Ctrl+M·오른쪽 클릭으로 여러 메모를 목록 순서대로 하나로
+- 합본 제목은 제목들의 공통점으로 자동 작성 (예: 01화~03화 합본), 빈 줄/구분선·생성 시각·빈 줄 정리 선택
+- 합본은 가상 메모로 만들고 로컬 저장 기본 폴더에 txt 사본도 자동 저장 (환경 설정에서 끌 수 있음)

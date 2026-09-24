@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.9.48 받기 (DriveMemo-0.9.48.zip)](https://github.com/subisubi99/DriveMemo-releases/raw/main/DriveMemo-0.9.48.zip)
+### ⬇ [DriveMemo 0.9.49 받기 (DriveMemo-0.9.49.zip)](https://github.com/subisubi99/DriveMemo-releases/raw/main/DriveMemo-0.9.49.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -69,11 +69,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때 하루 한 번 자동으로도 확인합니다.
 
-## 0.9.48에서 바뀐 내용
+## 0.9.49에서 바뀐 내용
 
-- 도움말 → 업데이트 확인: 새 버전을 확인하고 바로 받아서 바꿀 수 있습니다.
-- 시작할 때 하루 1번 새 버전을 자동으로 확인합니다. (환경 설정 → 시작 및 종료에서 끌 수 있음)
-- 환경 설정 → 저장: 다른 이름으로 로컬 저장의 기본 폴더를 정할 수 있습니다.
+- 목록과 메모 사이 분할선을 잡기 쉽게 했습니다. (잡는 영역 확대, 마우스를 올리면 선 강조)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

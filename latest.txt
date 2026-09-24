@@ -1,7 +1,5 @@
-version=0.9.48
+version=0.9.49
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-sha256=e3898cee9afe7d5d78871a97557243364d983cdff7330198f9a5586559f747b4
+sha256=dead26101aaea3f50bea7a2134fdd3335b203e21bbbca692602c373cbfb6d0e8
 notes:
-- 도움말 → 업데이트 확인: 새 버전을 확인하고 바로 받아서 바꿀 수 있습니다.
-- 시작할 때 하루 1번 새 버전을 자동으로 확인합니다. (환경 설정 → 시작 및 종료에서 끌 수 있음)
-- 환경 설정 → 저장: 다른 이름으로 로컬 저장의 기본 폴더를 정할 수 있습니다.
+- 목록과 메모 사이 분할선을 잡기 쉽게 했습니다. (잡는 영역 확대, 마우스를 올리면 선 강조)

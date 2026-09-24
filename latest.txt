@@ -1,5 +1,6 @@
-version=0.9.50
+version=0.9.51
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-sha256=93477604bfce0480d6dc7f38b92f5d559203e053fe62fc5b3ef3f47ca660b47b
+sha256=02725b8c637ccde1735e1f07bccc4ec741fab278d193f892dc15b4bd5282f0a8
 notes:
-- 도움말 → 개발자에게 의견 보내기: 불편한 점이나 원하는 기능을 프로그램 안에서 바로 보낼 수 있습니다. (메모 내용은 보내지 않음)
+- 검색어가 있는 곳으로 스크롤·선택, Enter(F3)로 다음·Shift+Enter(Shift+F3)로 이전 검색어
+- 전각 숫자·영문(５６７７)도 보통 글자(5677)와 똑같이 검색

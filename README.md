@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.9.50 받기 (DriveMemo-0.9.50.zip)](https://github.com/subisubi99/DriveMemo-releases/raw/main/DriveMemo-0.9.50.zip)
+### ⬇ [DriveMemo 0.9.51 받기 (DriveMemo-0.9.51.zip)](https://github.com/subisubi99/DriveMemo-releases/raw/main/DriveMemo-0.9.51.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -71,9 +71,10 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때 하루 한 번 자동으로도 확인합니다.
 
-## 0.9.50에서 바뀐 내용
+## 0.9.51에서 바뀐 내용
 
-- 도움말 → 개발자에게 의견 보내기: 불편한 점이나 원하는 기능을 프로그램 안에서 바로 보낼 수 있습니다. (메모 내용은 보내지 않음)
+- 검색어가 있는 곳으로 스크롤·선택, Enter(F3)로 다음·Shift+Enter(Shift+F3)로 이전 검색어
+- 전각 숫자·영문(５６７７)도 보통 글자(5677)와 똑같이 검색
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

@@ -1,6 +1,7 @@
-version=0.9.55
+version=0.9.56
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-sha256=649bcc9557da6b0ef31e7870a07deb1fd0a8c803617eec326a5649c4fe4eaf86
+sha256=3dcebf479e15757a8c36f7c40f83bdeb602c8d3a125a6a0ccd25d5d071fffd9d
 notes:
-- 자동 업데이트 확인을 켤 때마다 + 켜 둔 동안 6시간마다 하도록 (하루 1번이라 같은 날 나온 새 버전을 놓치던 문제)
-- 확인에 실패하면 10분 뒤 다시 시도 (부팅 직후 인터넷이 늦게 연결될 때)
+- 검색창 위에 마우스를 올리고 휠을 굴려도 이전/다음 검색어로 이동
+- 업데이트 알림에 '이 버전 건너뛰기' 추가 (그 버전은 다시 묻지 않음)
+- 도움말 → 이전 버전으로 되돌리기: 새 버전이 마음에 안 들면 바로 전 버전으로 (다시 돌아올 수도 있음)

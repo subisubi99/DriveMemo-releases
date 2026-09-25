@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.9.55 받기 (DriveMemo-0.9.55.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.9.55/DriveMemo-0.9.55.zip)
+### ⬇ [DriveMemo 0.9.56 받기 (DriveMemo-0.9.56.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.9.56/DriveMemo-0.9.56.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,10 +72,11 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.9.55에서 바뀐 내용
+## 0.9.56에서 바뀐 내용
 
-- 자동 업데이트 확인을 켤 때마다 + 켜 둔 동안 6시간마다 하도록 (하루 1번이라 같은 날 나온 새 버전을 놓치던 문제)
-- 확인에 실패하면 10분 뒤 다시 시도 (부팅 직후 인터넷이 늦게 연결될 때)
+- 검색창 위에 마우스를 올리고 휠을 굴려도 이전/다음 검색어로 이동
+- 업데이트 알림에 '이 버전 건너뛰기' 추가 (그 버전은 다시 묻지 않음)
+- 도움말 → 이전 버전으로 되돌리기: 새 버전이 마음에 안 들면 바로 전 버전으로 (다시 돌아올 수도 있음)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

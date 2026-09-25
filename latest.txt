@@ -1,7 +1,6 @@
-version=0.11.0
+version=0.11.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-sha256=69891b40d821deee8487c4056243b8d29d70e373c96fd5d690b324fbcb154ac2
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.11.1/DriveMemo-update.exe
+sha256=7c70471704161861e2f4c47cbd3469ed44090b6ffdc69c1f054ed524bebe18ff
 notes:
-- 목록 정렬에 '자동 인식' 추가: 오래 보거나 고치거나 띄운 메모를 위로 (환경 설정 → 인터페이스)
-- 목록 폭을 넓히면 최종 수정 칸이 먼저 날짜·시각까지 보이도록
-- 메모 띄우기·되돌리기 애니메이션을 더 부드럽게
+- 사소한 버그 수정

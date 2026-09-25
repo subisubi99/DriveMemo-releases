@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.10.0 받기 (DriveMemo-0.10.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.10.0/DriveMemo-0.10.0.zip)
+### ⬇ [DriveMemo 0.11.0 받기 (DriveMemo-0.11.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.11.0/DriveMemo-0.11.0.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,11 +72,11 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.10.0에서 바뀐 내용
+## 0.11.0에서 바뀐 내용
 
-- 책갈피: 스크롤바를 오른쪽 클릭 → '여기에 책갈피'. 스크롤바 옆 띠의 눈금을 누르면 그곳으로 이동 (여러 개 가능, 지우기도 같은 메뉴)
-- 마지막으로 보던 위치 기억: 다른 메모를 보다 돌아오거나 다시 켜도 보던 곳에서 시작 (환경 설정 → 책갈피, 다른 PC와 공유)
-- 검색창 옆 번호(14/25)가 잘리던 문제 수정
+- 목록 정렬에 '자동 인식' 추가: 오래 보거나 고치거나 띄운 메모를 위로 (환경 설정 → 인터페이스)
+- 목록 폭을 넓히면 최종 수정 칸이 먼저 날짜·시각까지 보이도록
+- 메모 띄우기·되돌리기 애니메이션을 더 부드럽게
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

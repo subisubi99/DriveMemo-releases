@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.9.53 받기 (DriveMemo-0.9.53.zip)](https://github.com/subisubi99/DriveMemo-releases/raw/main/DriveMemo-0.9.53.zip)
+### ⬇ [DriveMemo 0.9.54 받기 (DriveMemo-0.9.54.zip)](https://github.com/subisubi99/DriveMemo-releases/raw/main/DriveMemo-0.9.54.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,11 +72,10 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때 하루 한 번 자동으로도 확인합니다.
 
-## 0.9.53에서 바뀐 내용
+## 0.9.54에서 바뀐 내용
 
-- 여러 파일을 한꺼번에 넣으면 파일 이름순으로 목록에 들어감
-- 이름순 정렬을 탐색기와 같은 방식으로 (숫자는 숫자로 비교: 2화 → 10화)
-- 실제 파일 여러 개를 가상 메모로 옮길 때도 목록 순서 유지
+- 검색창 옆에 이전/다음 검색어 버튼(↑ ↓)과 몇 번째인지(3/27) 표시
+- 검색 중 방향키 ↑/↓로 이전/다음 검색어로 이동 (목록으로는 Ctrl+↓)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

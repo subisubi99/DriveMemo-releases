@@ -1,7 +1,6 @@
-version=0.9.53
+version=0.9.54
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-sha256=387838f04fc47f1ad75cb599dad0f3605a4b795405310a1f0a13c05b8dbac30c
+sha256=d875dd4a4d009eb807e31278af39c17963dc2cb079385608f12d455b0e5ae070
 notes:
-- 여러 파일을 한꺼번에 넣으면 파일 이름순으로 목록에 들어감
-- 이름순 정렬을 탐색기와 같은 방식으로 (숫자는 숫자로 비교: 2화 → 10화)
-- 실제 파일 여러 개를 가상 메모로 옮길 때도 목록 순서 유지
+- 검색창 옆에 이전/다음 검색어 버튼(↑ ↓)과 몇 번째인지(3/27) 표시
+- 검색 중 방향키 ↑/↓로 이전/다음 검색어로 이동 (목록으로는 Ctrl+↓)

@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.9.55 받기 (DriveMemo-0.9.55.zip)](https://github.com/subisubi99/DriveMemo-releases/raw/main/DriveMemo-0.9.55.zip)
+### ⬇ [DriveMemo 0.9.55 받기 (DriveMemo-0.9.55.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.9.55/DriveMemo-0.9.55.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.

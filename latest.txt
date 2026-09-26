@@ -1,10 +1,7 @@
-version=0.12.0
+version=0.12.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.12.0/DriveMemo-update.exe
-sha256=e7e5f048834c61337555d1fdb9501375d516242fa8d1d166b599f5c80e1f7803
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.12.1/DriveMemo-update.exe
+sha256=cfb80874d24b83516cfef1ff069deead8f7c977289503e77ae9c506ff9c4be50
 notes:
-- 모니터마다 배율이 달라도 창을 선명하게, 창 자리를 모니터 배치별로 기억 (없는 모니터의 창은 메인 창 위에)
-- 띄운 창의 위치·크기를 메모마다 기억, 메인 모니터로 끌려오던 문제 수정
-- [띄운 메모] 버튼으로 가려진 창 하나만 앞으로, 작업 표시줄로 띄운 창도 같이 부드럽게 내리고 올리기
-- 메모장 같은 상태 표시줄과 크기 조절 (기본 배율은 환경 설정 → 보기)
-- 메뉴가 부드럽게 펼쳐짐, ESC는 선택한 띄운 창부터
+- 크기 조절 슬라이더를 세로로 (위 500% · 가운데 100% · 아래 10%)
+- 환경 설정 → 보기: 메모마다 배율 기억 (기본은 전체 일괄)

@@ -1,6 +1,6 @@
-version=0.11.1
+version=0.11.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.11.1/DriveMemo-update.exe
-sha256=7c70471704161861e2f4c47cbd3469ed44090b6ffdc69c1f054ed524bebe18ff
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.11.2/DriveMemo-update.exe
+sha256=f3fc551a3ee5ae7048ab356b951edfcccf672598295698504aa3069ed9137616
 notes:
-- 사소한 버그 수정
+- 메모를 목록으로 되돌릴 때 애니메이션을 더 부드럽게

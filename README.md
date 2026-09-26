@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.12.1 받기 (DriveMemo-0.12.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.12.1/DriveMemo-0.12.1.zip)
+### ⬇ [DriveMemo 0.12.2 받기 (DriveMemo-0.12.2.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.12.2/DriveMemo-0.12.2.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,10 +72,11 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.12.1에서 바뀐 내용
+## 0.12.2에서 바뀐 내용
 
-- 크기 조절 슬라이더를 세로로 (위 500% · 가운데 100% · 아래 10%)
-- 환경 설정 → 보기: 메모마다 배율 기억 (기본은 전체 일괄)
+- 크기 조절 칸에 배율 상태 표시 (● 이 메모에 기억됨, * 이 창에서만 바꿈)
+- 환경 설정 → 보기: 배율을 따로 정한 메모 목록 보기·모두 기본으로
+- 크기 조절 슬라이더를 더 날씬하게, 어디를 더블클릭해도 기본 배율로
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

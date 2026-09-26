@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.11.2 받기 (DriveMemo-0.11.2.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.11.2/DriveMemo-0.11.2.zip)
+### ⬇ [DriveMemo 0.12.0 받기 (DriveMemo-0.12.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.12.0/DriveMemo-0.12.0.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,9 +72,13 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.11.2에서 바뀐 내용
+## 0.12.0에서 바뀐 내용
 
-- 메모를 목록으로 되돌릴 때 애니메이션을 더 부드럽게
+- 모니터마다 배율이 달라도 창을 선명하게, 창 자리를 모니터 배치별로 기억 (없는 모니터의 창은 메인 창 위에)
+- 띄운 창의 위치·크기를 메모마다 기억, 메인 모니터로 끌려오던 문제 수정
+- [띄운 메모] 버튼으로 가려진 창 하나만 앞으로, 작업 표시줄로 띄운 창도 같이 부드럽게 내리고 올리기
+- 메모장 같은 상태 표시줄과 크기 조절 (기본 배율은 환경 설정 → 보기)
+- 메뉴가 부드럽게 펼쳐짐, ESC는 선택한 띄운 창부터
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

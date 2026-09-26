@@ -1,8 +1,8 @@
-version=0.13.0
+version=0.13.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.13.0/DriveMemo-update.exe
-sha256=b134c54983ae097daca1aa0d9fab488014c4fe4717939901dcff75c63ed4a3d2
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.13.1/DriveMemo-update.exe
+sha256=31f26b998269cd83efbefe655a6898d1be4bdab2793745d986377d3b5f359407
 notes:
-- 목록 오른쪽 클릭 → 제목 정하기: 첫 줄 대신 내가 정한 제목으로 표시 (띄운 창·띄운 메모 목록에도, 다른 PC와 공유)
-- 한자 키로 커서 앞 글자를 한자로 (F9도 됨)
-- 크기 조절을 누르는 버튼 모양으로
+- 배율이 다른 모니터에서 선택 버튼·체크 상자가 뭉개지던 문제 수정
+- 환경 설정 창이 떠 있어도 띄운 창에서 쓰고 닫기
+- 배율이 낮은 모니터로 옮기면 새 메모·삭제 버튼이 너무 크던 문제 수정

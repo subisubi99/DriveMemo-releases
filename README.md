@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.13.0 받기 (DriveMemo-0.13.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.13.0/DriveMemo-0.13.0.zip)
+### ⬇ [DriveMemo 0.13.1 받기 (DriveMemo-0.13.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.13.1/DriveMemo-0.13.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,11 +72,11 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.13.0에서 바뀐 내용
+## 0.13.1에서 바뀐 내용
 
-- 목록 오른쪽 클릭 → 제목 정하기: 첫 줄 대신 내가 정한 제목으로 표시 (띄운 창·띄운 메모 목록에도, 다른 PC와 공유)
-- 한자 키로 커서 앞 글자를 한자로 (F9도 됨)
-- 크기 조절을 누르는 버튼 모양으로
+- 배율이 다른 모니터에서 선택 버튼·체크 상자가 뭉개지던 문제 수정
+- 환경 설정 창이 떠 있어도 띄운 창에서 쓰고 닫기
+- 배율이 낮은 모니터로 옮기면 새 메모·삭제 버튼이 너무 크던 문제 수정
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

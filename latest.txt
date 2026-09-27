@@ -1,7 +1,6 @@
-version=0.14.1
+version=0.14.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.14.1/DriveMemo-update.exe
-sha256=d33bec106853a851ee180c381432b647bd799faec1955a482a415a4e3dd405a8
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.14.2/DriveMemo-update.exe
+sha256=afb36c12b1d2d24d63220cfce02ae1a3e1f53af8d7d320977c1269e0ce6046f8
 notes:
-- 오류 기록 보내기: 오류가 나거나 갑자기 꺼지면 기록을 남기고 개발자에게 보낼지 물음 (도움말 → 오류 기록 보내기)
-- 띄운 창을 좁히면 크기 조절·글꼴 버튼이 상태 표시줄 아랫줄로 내려가 늘 보이게
+- 빈 새 메모에서 목록 맨 아래 메모를 누르면 오류 창이 뜨며 꺼지던 문제 고침

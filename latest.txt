@@ -1,11 +1,7 @@
-version=0.14.0
+version=0.14.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.14.0/DriveMemo-update.exe
-sha256=bd829b0c72463f09b77941e6651280b6abe082f4266e9a5522c8494e67436ae4
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.14.1/DriveMemo-update.exe
+sha256=d33bec106853a851ee180c381432b647bd799faec1955a482a415a4e3dd405a8
 notes:
-- 작업 표시줄의 DriveMemo를 오른쪽 클릭하면 띄운 메모 목록 — 누르면 그 창만 맨 앞으로
-- 환경 설정 → 글꼴: 윈도우 기본 글꼴 선택, 문서만/프로그램 전체, 메모마다 따로(상태 표시줄 [글꼴] 버튼)
-- [↔ 칸 정렬] 버튼: 제목 우선 ↔ 전체 보기, [창 정렬]은 제목 우선으로
-- 창 테두리를 더 쉽게 잡아 크기 조절
-- 배율이 다른 모니터에서 띄운 창 크기가 다시 켜면 줄어들던 문제 수정
-- 최종 수정 칸을 더 좁게 줄일 수 있게
+- 오류 기록 보내기: 오류가 나거나 갑자기 꺼지면 기록을 남기고 개발자에게 보낼지 물음 (도움말 → 오류 기록 보내기)
+- 띄운 창을 좁히면 크기 조절·글꼴 버튼이 상태 표시줄 아랫줄로 내려가 늘 보이게

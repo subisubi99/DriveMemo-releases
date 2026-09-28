@@ -1,6 +1,7 @@
-version=0.16.7
+version=0.16.8
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.7/DriveMemo-update.exe
-sha256=61eb1a7467bad179e58eae3d57c6a2c0af469d8cf6c4365622d94ca09f9654e4
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.8/DriveMemo-update.exe
+sha256=302a5a830d011d0af3696c6cd66473a4785dfbe1de40c3f6dc98dc087a826774
 notes:
-- 띄운 창을 닫을 때 다른 모니터의 띄운 창이 튀어 올라오던 것 → 바로 아래 있던 창이 DriveMemo 창일 때만 그 창으로, 다른 프로그램을 쓰던 중이면 그대로
+- 작업 표시줄 오른쪽 클릭 목록: 제목 앞 [가상]/[실제]로 구분, 실제 파일은 그 파일 종류 아이콘
+- 상태 표시줄·[띄운 메모] 목록에서 실제 파일을 파란 글자로 (목록 구분 칸과 같게)

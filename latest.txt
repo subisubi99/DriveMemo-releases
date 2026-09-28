@@ -1,10 +1,8 @@
-version=0.16.0
+version=0.16.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.0/DriveMemo-update.exe
-sha256=4916046688ed90c56d3c37675b50e52d29b9be955bf91a647fe171b3f566e0b7
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.1/DriveMemo-update.exe
+sha256=d8c539c76fd9059dc61a5e290dda8eb8dba80ebe2ea684a6a8cb3a8ca5ff439c
 notes:
-- 속도: 긴 메모에서 창 띄우기·크기 조절·메모 불러오기가 느리던 문제 고침 (0.15.0에서 창 띄우기 수 초 → 1초 안쪽)
-- 메인 창 [+ 새 메모] 옆에 [↶ 실행 취소] [↷ 다시 실행]: 길게 누르면 번호 붙은 작업 목록 → 고른 곳까지 한꺼번에
-- 실행 취소 때 화면과 커서는 그대로, 안 보이는 곳이 바뀌면 '화면 밖에서 되돌림 (줄 5)'으로 알림
-- 띄운 창 위쪽 버튼 줄: [+ 새 메모](바로 띄운 창으로, Ctrl+N) [↶] [↷] [띄운 메모]
-- 자동 저장 뒤 실행 취소 기록이 지워지던 문제, 띄운 창에서 서식 있는 글이 붙여 넣어질 수 있던 문제 고침
+- 자유 배치: 핸들 없이 메모 줄 아무 데나 잡고 위아래로 끌어도 순서 바꾸기 (옆으로 빼면 별도 창)
+- 띄운 창 [사용자 설정][▾]: 창 모양(자리·크기·최대화·항상 위·배율·글꼴)을 기억해 두고 한 번에 맞추기 (▾ 초록 = 기억함, 빨강 = 없음)
+- 목록 오른쪽 클릭 → '사용자 설정으로 띄우기'

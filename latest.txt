@@ -1,6 +1,6 @@
-version=0.16.6
+version=0.16.7
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.6/DriveMemo-update.exe
-sha256=49e4720e41f02cb8a0610b0a3269c5025c62ffa853c1fed9d654dd3b398f96f6
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.7/DriveMemo-update.exe
+sha256=61eb1a7467bad179e58eae3d57c6a2c0af469d8cf6c4365622d94ca09f9654e4
 notes:
-- 메인 창만 최소화(_ 버튼)할 때 띄운 창이 뒤에 있던 다른 프로그램 창에 가려지던 것 → 띄운 창은 그대로 앞에, 맨 위 띄운 창이 활성화
+- 띄운 창을 닫을 때 다른 모니터의 띄운 창이 튀어 올라오던 것 → 바로 아래 있던 창이 DriveMemo 창일 때만 그 창으로, 다른 프로그램을 쓰던 중이면 그대로

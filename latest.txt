@@ -1,7 +1,8 @@
-version=0.16.8
+version=0.16.9
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.8/DriveMemo-update.exe
-sha256=302a5a830d011d0af3696c6cd66473a4785dfbe1de40c3f6dc98dc087a826774
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.9/DriveMemo-update.exe
+sha256=778730adfe0c21f70d7dde16b0a3906925c55d084cce856674006be6185d33cd
 notes:
-- 작업 표시줄 오른쪽 클릭 목록: 제목 앞 [가상]/[실제]로 구분, 실제 파일은 그 파일 종류 아이콘
-- 상태 표시줄·[띄운 메모] 목록에서 실제 파일을 파란 글자로 (목록 구분 칸과 같게)
+- 메인 창 제목 줄에 편집 중인 메모의 파일 경로와 등록 메모 수 (실제 · 가상 따로)
+- 띄운 창 제목 줄에 제목 뒤로 파일 경로
+- 목록 오른쪽 클릭 '파일이 있는 폴더 열기'를 가상 메모에도 (탐색기에서 그 파일이 선택된 채)

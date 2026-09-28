@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.16.2 받기 (DriveMemo-0.16.2.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.2/DriveMemo-0.16.2.zip)
+### ⬇ [DriveMemo 0.16.3 받기 (DriveMemo-0.16.3.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.3/DriveMemo-0.16.3.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,11 +72,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.16.2에서 바뀐 내용
+## 0.16.3에서 바뀐 내용
 
-- 사용자 설정으로 맞출 때 팍 바뀌지 않고 부드럽게 늘어나고 줄어듦
-- 띄운 창 최대화·이전 크기(버튼, 제목 줄 더블클릭)도 부드럽게
-- 다른 프로그램에 있다가 편집창을 한 번만 눌러도 그 자리로 커서가 감 (전에는 두 번 눌러야 했음)
+- 띄운 창 사용자 설정: 맞춘 창의 자리·크기·배율·항상 위 등을 바꾸면 ▾가 노랑으로 (기억한 것과 달라짐, 새로 기억할지는 ▾에서 직접)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

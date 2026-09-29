@@ -1,7 +1,9 @@
-version=0.17.0
+version=0.17.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.17.0/DriveMemo-update.exe
-sha256=5c9065eeef2ba045d385d49caf0fb514810bd7da7c000342de9c0ef07b34fc87
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.17.1/DriveMemo-update.exe
+sha256=50165ef821a0cd990ad96fcb2b8c5f3c27d8425955a8bf906e0e70b043bdbb34
 notes:
-- 환경 설정 → 언어에서 한국어 / English 선택 (다시 시작하면 적용)
-- English UI: Settings → Language (restart to apply)
+- 디자인 다듬기: 새 색 구성(어두운 테마 세 겹 바탕, 밝은 테마는 따뜻한 종이색)
+- 은은한 입체 버튼, [+ 새 메모]는 파란색
+- 목록 선택 줄·검색 칸을 둥글게, 편집창 여백 넓힘
+- 띄운 창 제목 줄 그라데이션, 구분선을 더 또렷하게(고배율 모니터는 2px)

@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.16.9 받기 (DriveMemo-0.16.9.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.9/DriveMemo-0.16.9.zip)
+### ⬇ [DriveMemo 0.17.0 받기 (DriveMemo-0.17.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.17.0/DriveMemo-0.17.0.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,11 +72,10 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.16.9에서 바뀐 내용
+## 0.17.0에서 바뀐 내용
 
-- 메인 창 제목 줄에 편집 중인 메모의 파일 경로와 등록 메모 수 (실제 · 가상 따로)
-- 띄운 창 제목 줄에 제목 뒤로 파일 경로
-- 목록 오른쪽 클릭 '파일이 있는 폴더 열기'를 가상 메모에도 (탐색기에서 그 파일이 선택된 채)
+- 환경 설정 → 언어에서 한국어 / English 선택 (다시 시작하면 적용)
+- English UI: Settings → Language (restart to apply)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

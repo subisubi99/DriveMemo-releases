@@ -1,8 +1,7 @@
-version=0.16.9
+version=0.17.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.16.9/DriveMemo-update.exe
-sha256=778730adfe0c21f70d7dde16b0a3906925c55d084cce856674006be6185d33cd
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.17.0/DriveMemo-update.exe
+sha256=5c9065eeef2ba045d385d49caf0fb514810bd7da7c000342de9c0ef07b34fc87
 notes:
-- 메인 창 제목 줄에 편집 중인 메모의 파일 경로와 등록 메모 수 (실제 · 가상 따로)
-- 띄운 창 제목 줄에 제목 뒤로 파일 경로
-- 목록 오른쪽 클릭 '파일이 있는 폴더 열기'를 가상 메모에도 (탐색기에서 그 파일이 선택된 채)
+- 환경 설정 → 언어에서 한국어 / English 선택 (다시 시작하면 적용)
+- English UI: Settings → Language (restart to apply)

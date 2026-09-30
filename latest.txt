@@ -1,9 +1,10 @@
-version=0.17.1
+version=0.18.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.17.1/DriveMemo-update.exe
-sha256=50165ef821a0cd990ad96fcb2b8c5f3c27d8425955a8bf906e0e70b043bdbb34
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.18.0/DriveMemo-update.exe
+sha256=4ac7833b8c1a94f528efa8691604e6316bf80cda1e1220cc3b5867b9a436cc50
 notes:
-- 디자인 다듬기: 새 색 구성(어두운 테마 세 겹 바탕, 밝은 테마는 따뜻한 종이색)
-- 은은한 입체 버튼, [+ 새 메모]는 파란색
-- 목록 선택 줄·검색 칸을 둥글게, 편집창 여백 넓힘
-- 띄운 창 제목 줄 그라데이션, 구분선을 더 또렷하게(고배율 모니터는 2px)
+- 메모 변경 기록: 오른쪽 클릭 → 변경 기록에서 이전 버전 보기·되돌리기
+- 파일 → 휴지통 보기: 지운 메모 되살리기·완전 삭제
+- NAS 등 실제 파일에 저장 못 하면 이 PC에 임시 저장했다가 연결되면 반영
+- 링크는 파란 밑줄, 짧게 클릭하면 열기(길게 누르면 고치기)
+- 찾아 바꾸기(Ctrl+H), 상태 표시줄에 날짜·시각

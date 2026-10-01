@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.18.0 받기 (DriveMemo-0.18.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.18.0/DriveMemo-0.18.0.zip)
+### ⬇ [DriveMemo 0.18.1 받기 (DriveMemo-0.18.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.18.1/DriveMemo-0.18.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,13 +72,10 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.18.0에서 바뀐 내용
+## 0.18.1에서 바뀐 내용
 
-- 메모 변경 기록: 오른쪽 클릭 → 변경 기록에서 이전 버전 보기·되돌리기
-- 파일 → 휴지통 보기: 지운 메모 되살리기·완전 삭제
-- NAS 등 실제 파일에 저장 못 하면 이 PC에 임시 저장했다가 연결되면 반영
-- 링크는 파란 밑줄, 짧게 클릭하면 열기(길게 누르면 고치기)
-- 찾아 바꾸기(Ctrl+H), 상태 표시줄에 날짜·시각
+- 입력기가 전각 모드여도 영문·숫자·기호는 반각으로 입력 (환경 설정 → 보기 → 입력에서 끌 수 있음)
+- 링크 밑줄이 글 맨 끝에서 한 글자쯤 길게 그어지던 것 고침
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

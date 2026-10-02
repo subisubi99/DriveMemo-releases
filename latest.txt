@@ -1,7 +1,10 @@
-version=0.18.2
+version=0.19.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.18.2/DriveMemo-update.exe
-sha256=453c215816ed52f3093efa8628e4093a6c978ffbd994ab905baf048ca4f86a66
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.0/DriveMemo-update.exe
+sha256=aca7fb700b9ab9a77350a82a5f5ce541f96c722c9caba2046d7c244f739a223a
 notes:
-- 환경 설정: 보기 페이지를 '보기'와 '편집창'(상태 표시줄·스크롤 미끄러짐·입력)으로 나눔
-- 설정 창이 화면보다 길면 높이를 줄이고 스크롤
+- 목록 폴더: 탐색기처럼 메모를 폴더로 묶기 (새 폴더 Ctrl+Shift+N·[새 메모] 옆 ▾, F2 이름 바꾸기, 펼치기·접기)
+- 자유 배치에서 폴더도 끌어서 자리 옮기기, 메모를 폴더 줄 위에 놓으면 안으로
+- 폴더째·여러 개 골라 목록 밖으로 끌어내면 놓은 자리에 창들이 한꺼번에 (초록 버튼·메뉴로도)
+- 폴더 펼치기·접기·새 메모가 부드럽게 미끄러짐, 여러 창 띄우기·모두 목록으로가 빨라짐
+- 프로그램이 멈추면 원인을 기록해 다음에 켤 때 보낼 수 있게

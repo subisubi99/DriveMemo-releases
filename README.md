@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.19.1 받기 (DriveMemo-0.19.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.1/DriveMemo-0.19.1.zip)
+### ⬇ [DriveMemo 0.19.2 받기 (DriveMemo-0.19.2.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.2/DriveMemo-0.19.2.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,9 +72,10 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.19.1에서 바뀐 내용
+## 0.19.2에서 바뀐 내용
 
-- 메모를 지운 뒤 목록 맨 위로 가지 않고 지운 자리 바로 위 메모를 고름
+- 펼친 폴더를 끌면 안의 메모까지 한 덩어리로 따라감
+- 폴더를 다른 폴더 메모 사이에 끼우지 않아 놓은 뒤 튀지 않음
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

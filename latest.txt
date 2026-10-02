@@ -1,6 +1,7 @@
-version=0.19.1
+version=0.19.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.1/DriveMemo-update.exe
-sha256=ec89338c8aa3cfb8b6dc259da3b8b618ae525aec83865eced57a18c80ed87f8b
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.2/DriveMemo-update.exe
+sha256=4e7a3d2d5508d2fffff8828853cb50bdef8ee0aa7cde85f770923c7107abac5e
 notes:
-- 메모를 지운 뒤 목록 맨 위로 가지 않고 지운 자리 바로 위 메모를 고름
+- 펼친 폴더를 끌면 안의 메모까지 한 덩어리로 따라감
+- 폴더를 다른 폴더 메모 사이에 끼우지 않아 놓은 뒤 튀지 않음

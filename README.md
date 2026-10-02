@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.19.0 받기 (DriveMemo-0.19.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.0/DriveMemo-0.19.0.zip)
+### ⬇ [DriveMemo 0.19.1 받기 (DriveMemo-0.19.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.1/DriveMemo-0.19.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -72,13 +72,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.19.0에서 바뀐 내용
+## 0.19.1에서 바뀐 내용
 
-- 목록 폴더: 탐색기처럼 메모를 폴더로 묶기 (새 폴더 Ctrl+Shift+N·[새 메모] 옆 ▾, F2 이름 바꾸기, 펼치기·접기)
-- 자유 배치에서 폴더도 끌어서 자리 옮기기, 메모를 폴더 줄 위에 놓으면 안으로
-- 폴더째·여러 개 골라 목록 밖으로 끌어내면 놓은 자리에 창들이 한꺼번에 (초록 버튼·메뉴로도)
-- 폴더 펼치기·접기·새 메모가 부드럽게 미끄러짐, 여러 창 띄우기·모두 목록으로가 빨라짐
-- 프로그램이 멈추면 원인을 기록해 다음에 켤 때 보낼 수 있게
+- 메모를 지운 뒤 목록 맨 위로 가지 않고 지운 자리 바로 위 메모를 고름
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

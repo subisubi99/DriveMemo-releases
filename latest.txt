@@ -1,7 +1,7 @@
-version=0.18.1
+version=0.18.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.18.1/DriveMemo-update.exe
-sha256=89dd9fbf438e088693bb7ab3188fb78a27e998786838c951484440eb39e9cd46
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.18.2/DriveMemo-update.exe
+sha256=453c215816ed52f3093efa8628e4093a6c978ffbd994ab905baf048ca4f86a66
 notes:
-- 입력기가 전각 모드여도 영문·숫자·기호는 반각으로 입력 (환경 설정 → 보기 → 입력에서 끌 수 있음)
-- 링크 밑줄이 글 맨 끝에서 한 글자쯤 길게 그어지던 것 고침
+- 환경 설정: 보기 페이지를 '보기'와 '편집창'(상태 표시줄·스크롤 미끄러짐·입력)으로 나눔
+- 설정 창이 화면보다 길면 높이를 줄이고 스크롤

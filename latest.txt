@@ -1,8 +1,9 @@
-version=0.21.0
+version=0.21.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.21.0/DriveMemo-update.exe
-sha256=37cff3f090618f0a0c72476dac8753d07808f22ae66fa34dab32fe0caea6f678
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.21.1/DriveMemo-update.exe
+sha256=778080f14db5570d8b88b6ead6a2dcbc42b6c71c0f6171438dbbe81b5700d1da
 notes:
-- 창 정렬 비율 고르기: [창 정렬]을 누를 때마다 1:1 → 1:1.6 → 1:2 → 1:3 → 1:4 → 1:5, 더블클릭하면 1:3, 오른쪽 칸에서 지금 비율 보기·고르기
-- 창이 좁으면 위아래 버튼·정보 칸이 숨지 않고 둘째 줄로 (메인 창·띄운 창)
-- 작업 표시줄로 올리거나 끌어올 때 메인 창이 띄운 창 밑에 깔리던 것 고침
+- 동기화 상황·기능 안내·환경 설정·책갈피 목록·변경 기록·휴지통·의견 보내기 창을 띄워 둔 채로 메모 가능 (메인 창과 같이 내려가고 올라옴)
+- 폴더·파일 고르는 창이 떠 있어도 메인 창·띄운 창에서 메모 가능
+- 동기화 상황 창: 스크롤이 맨 위로 가던 것·깜박임 고침, 새 기록이 맨 아래에
+- 데이터 폴더 변경을 취소해도 띄운 창이 다 들어가던 것 고침

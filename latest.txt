@@ -1,12 +1,8 @@
-version=0.22.0
+version=0.22.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.22.0/DriveMemo-update.exe
-sha256=46f7dac902ae7bced4a6b9aff2f7f532894c5688e8d9ff80b3c201e72c25ad27
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.22.1/DriveMemo-update.exe
+sha256=7e7872c5a27a5ba657f17d8eacd2500a13289dd4d63116b478d10020923cfb3b
 notes:
-- 처음 설치 시 목록 정렬을 자유 배치로
-- 상태 표시줄 알림을 더 잘 보이게 (작업 : + 파란색, 새 알림은 번쩍임)
-- 상태 표시줄 칸이 부드럽게 움직임
-- 일반 메모에도 파일 속성(R)
-- 메모 오른쪽 클릭에 새 폴더
-- 즐겨찾기만 보기에서 새 폴더를 만들면 전체 보기로
-- 작업 표시줄로 올린 뒤 메인 편집창을 누르면 띄운 창이 바로 뒤로
+- 환경 설정을 다시 열면 마지막으로 보던 페이지·자리 그대로
+- 글꼴 설정을 화면 글꼴(메뉴·목록·대화상자)과 메모 글꼴로 나눔
+- 상태 표시줄 [글꼴] 버튼: 모든 메모 같게일 때는 모든 메모의 글꼴을 바꿈

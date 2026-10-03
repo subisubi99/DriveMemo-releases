@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.22.0 받기 (DriveMemo-0.22.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.22.0/DriveMemo-0.22.0.zip)
+### ⬇ [DriveMemo 0.22.1 받기 (DriveMemo-0.22.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.22.1/DriveMemo-0.22.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,15 +81,11 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.22.0에서 바뀐 내용
+## 0.22.1에서 바뀐 내용
 
-- 처음 설치 시 목록 정렬을 자유 배치로
-- 상태 표시줄 알림을 더 잘 보이게 (작업 : + 파란색, 새 알림은 번쩍임)
-- 상태 표시줄 칸이 부드럽게 움직임
-- 일반 메모에도 파일 속성(R)
-- 메모 오른쪽 클릭에 새 폴더
-- 즐겨찾기만 보기에서 새 폴더를 만들면 전체 보기로
-- 작업 표시줄로 올린 뒤 메인 편집창을 누르면 띄운 창이 바로 뒤로
+- 환경 설정을 다시 열면 마지막으로 보던 페이지·자리 그대로
+- 글꼴 설정을 화면 글꼴(메뉴·목록·대화상자)과 메모 글꼴로 나눔
+- 상태 표시줄 [글꼴] 버튼: 모든 메모 같게일 때는 모든 메모의 글꼴을 바꿈
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

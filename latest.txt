@@ -1,9 +1,12 @@
-version=0.21.2
+version=0.22.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.21.2/DriveMemo-update.exe
-sha256=a8d8da8ef2d773013cefa540484c3751a0e0c43071e656253c9d6e6b8a77fbfa
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.22.0/DriveMemo-update.exe
+sha256=46f7dac902ae7bced4a6b9aff2f7f532894c5688e8d9ff80b3c201e72c25ad27
 notes:
-- 띄운 창을 닫거나 작업 표시줄로 내렸다 올릴 때 메인 창 위의 띄운 창이 아래로 깔리던 것
-- 목록에서 메모를 연달아 띄울 때 앞서 띄운 창이 메인 창 밑으로 들어가던 것
-- 띄운 창을 쓰다 작업 표시줄을 누르면 한 번에 내려감 (전엔 두 번)
-- 다른 프로그램에서 돌아올 때 떠나기 직전 창 순서 그대로
+- 처음 설치 시 목록 정렬을 자유 배치로
+- 상태 표시줄 알림을 더 잘 보이게 (작업 : + 파란색, 새 알림은 번쩍임)
+- 상태 표시줄 칸이 부드럽게 움직임
+- 일반 메모에도 파일 속성(R)
+- 메모 오른쪽 클릭에 새 폴더
+- 즐겨찾기만 보기에서 새 폴더를 만들면 전체 보기로
+- 작업 표시줄로 올린 뒤 메인 편집창을 누르면 띄운 창이 바로 뒤로

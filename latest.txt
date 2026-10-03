@@ -1,7 +1,7 @@
-version=0.19.2
+version=0.20.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.19.2/DriveMemo-update.exe
-sha256=4e7a3d2d5508d2fffff8828853cb50bdef8ee0aa7cde85f770923c7107abac5e
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.20.0/DriveMemo-update.exe
+sha256=fe9e7629eb4e6fbdcb636b5ec79ba73e75b174cef341672edd3a7bc1e1d7c18e
 notes:
-- 펼친 폴더를 끌면 안의 메모까지 한 덩어리로 따라감
-- 폴더를 다른 폴더 메모 사이에 끼우지 않아 놓은 뒤 튀지 않음
+- 즐겨찾기 메뉴(도움말 오른쪽): 전체 보기 / 즐겨찾기만 보기, 표시한 메모 최대 15개 (클릭 = 메인 창, 오른쪽 클릭 = 별도 창)
+- 띄운 창에 [즐겨찾기] 버튼: 이 메모 표시 바꾸기, 옆 칸에서 즐겨찾기 메모를 같은 자리·크기로 겹쳐 띄우기

@@ -1,9 +1,6 @@
-version=0.22.1
+version=0.23.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.22.1/DriveMemo-update.exe
-sha256=6d4d6acf8d0721f0603daf29d446382febaf6675f5c7e05cfb8f067c517980ed
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.23.0/DriveMemo-update.exe
+sha256=d983578b7bc377b72e87d2185dfcb157c6478de23a9980bda80dc5032a4a951a
 notes:
-- 환경 설정을 다시 열면 마지막으로 보던 페이지·자리·크기 그대로
-- 환경 설정 창 크기 조절 (넓히면 설명 글이 넓게 줄바꿈)
-- 글꼴 설정을 화면 글꼴(메뉴·목록·대화상자)과 메모 글꼴로 나눔
-- 상태 표시줄 [글꼴] 버튼: 모든 메모 같게일 때는 모든 메모의 글꼴을 바꿈
+- 실제 파일(끌어다 놓기·파일 열기)을 목록에 올리면 같은 내용의 가상 복사본을 바로 위에 만들어 다른 PC에서도 보이게 (환경 설정 → 저장에서 끌 수 있음)

@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.22.1 받기 (DriveMemo-0.22.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.22.1/DriveMemo-0.22.1.zip)
+### ⬇ [DriveMemo 0.23.0 받기 (DriveMemo-0.23.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.23.0/DriveMemo-0.23.0.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,12 +81,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.22.1에서 바뀐 내용
+## 0.23.0에서 바뀐 내용
 
-- 환경 설정을 다시 열면 마지막으로 보던 페이지·자리·크기 그대로
-- 환경 설정 창 크기 조절 (넓히면 설명 글이 넓게 줄바꿈)
-- 글꼴 설정을 화면 글꼴(메뉴·목록·대화상자)과 메모 글꼴로 나눔
-- 상태 표시줄 [글꼴] 버튼: 모든 메모 같게일 때는 모든 메모의 글꼴을 바꿈
+- 실제 파일(끌어다 놓기·파일 열기)을 목록에 올리면 같은 내용의 가상 복사본을 바로 위에 만들어 다른 PC에서도 보이게 (환경 설정 → 저장에서 끌 수 있음)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

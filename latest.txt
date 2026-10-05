@@ -1,6 +1,10 @@
-version=0.23.0
+version=0.23.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.23.0/DriveMemo-update.exe
-sha256=d983578b7bc377b72e87d2185dfcb157c6478de23a9980bda80dc5032a4a951a
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.23.1/DriveMemo-update.exe
+sha256=fc161f861894494d774be02f78b2845ca31a2ccb6796a4516959a80b4fd60a86
 notes:
-- 실제 파일(끌어다 놓기·파일 열기)을 목록에 올리면 같은 내용의 가상 복사본을 바로 위에 만들어 다른 PC에서도 보이게 (환경 설정 → 저장에서 끌 수 있음)
+- 구글 드라이브·임시 저장이 모두 실패하면 다시 시도, 끌 때 못 남긴 편집은 바탕 화면에 txt로
+- 보조 백업에 제목·순서·폴더·표시·공유 설정도 포함
+- 업데이트는 확인값(SHA-256)이 맞을 때만, https 주소만
+- 옛 인코딩(ANSI) 파일에 못 담는 글자가 있으면 UTF-8로 저장
+- exe 파일 정보(제작사·버전) 표시

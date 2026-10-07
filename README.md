@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.24.0 받기 (DriveMemo-0.24.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.0/DriveMemo-0.24.0.zip)
+### ⬇ [DriveMemo 0.24.1 받기 (DriveMemo-0.24.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.1/DriveMemo-0.24.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,9 +81,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.24.0에서 바뀐 내용
+## 0.24.1에서 바뀐 내용
 
-- 별도 창으로 띄운 메모가 목록에서 빠지지 않고 제자리에 흐리게 남음 (누르면 그 창으로, 닫으면 그 줄로 들어감 · 환경 설정 → 보기에서 끌 수 있음)
+- 탐색기에서 파일을 목록의 폴더 줄(또는 폴더 안 메모) 위에 놓으면 그 폴더 안으로 들어감 (끄는 동안 들어갈 폴더 표시)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

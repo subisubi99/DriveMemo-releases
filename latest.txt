@@ -1,6 +1,6 @@
-version=0.24.0
+version=0.24.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.0/DriveMemo-update.exe
-sha256=722c523081e0186763d458ee42e0fed54dfb2a47c9eefe4b90af54463c941d66
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.1/DriveMemo-update.exe
+sha256=a6a03e244f21ec254f09a14efea0d54c10e387336317c4011df53200c478bbc7
 notes:
-- 별도 창으로 띄운 메모가 목록에서 빠지지 않고 제자리에 흐리게 남음 (누르면 그 창으로, 닫으면 그 줄로 들어감 · 환경 설정 → 보기에서 끌 수 있음)
+- 탐색기에서 파일을 목록의 폴더 줄(또는 폴더 안 메모) 위에 놓으면 그 폴더 안으로 들어감 (끄는 동안 들어갈 폴더 표시)

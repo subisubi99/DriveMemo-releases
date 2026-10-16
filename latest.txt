@@ -1,6 +1,7 @@
-version=0.24.1
+version=0.24.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.1/DriveMemo-update.exe
-sha256=a6a03e244f21ec254f09a14efea0d54c10e387336317c4011df53200c478bbc7
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.2/DriveMemo-update.exe
+sha256=90ede49108ccd5285b08a558da4eac00ca68126e448671818268c78099d18345
 notes:
-- 탐색기에서 파일을 목록의 폴더 줄(또는 폴더 안 메모) 위에 놓으면 그 폴더 안으로 들어감 (끄는 동안 들어갈 폴더 표시)
+- PC 절전에서 깨어날 때 '응답 없음' 오류 기록 창이 잘못 뜨던 것 고침
+- 대화상자를 배율이 다른 모니터로 옮길 때 안쪽 칸·버튼이 제자리에 남던 것 고침

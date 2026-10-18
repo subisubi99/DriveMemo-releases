@@ -1,7 +1,7 @@
-version=0.24.2
+version=0.24.3
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.2/DriveMemo-update.exe
-sha256=90ede49108ccd5285b08a558da4eac00ca68126e448671818268c78099d18345
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.3/DriveMemo-update.exe
+sha256=7af205954aa5f4a0f32da5365f74de4d3643312ef13911b927cb624c623d64ab
 notes:
-- PC 절전에서 깨어날 때 '응답 없음' 오류 기록 창이 잘못 뜨던 것 고침
-- 대화상자를 배율이 다른 모니터로 옮길 때 안쪽 칸·버튼이 제자리에 남던 것 고침
+- 메뉴의 하위 메뉴를 펼칠 때 하얗게 번쩍이던 것 고침
+- 메뉴가 부드럽게 나타남 (밝은·어두운 테마)

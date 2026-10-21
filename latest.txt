@@ -1,7 +1,11 @@
-version=0.25.1
+version=0.25.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.25.1/DriveMemo-update.exe
-sha256=9790d1d6ce1cfacf494c224e848b5796088aeb33386d1b4e1d1df09747922983
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.25.2/DriveMemo-update.exe
+sha256=b8f183a6c7ae4383a9c069de0324279588aae66d9d939e5c07bb00ad11e59556
 notes:
-- 다른 PC의 공유 설정을 불러오기 전에 지금 설정을 백업해 둠
-- 파일 → '설정 불러오기 되돌리기'로 불러오기 전 설정으로 되돌릴 수 있음
+- 띄운 메모를 목록에서 같이 골라 삭제하면 창이 남아 메모가 되살아나던 것 고침
+- 저장에 실패했을 때 다른 메모로 옮기거나 띄운 창을 닫으면 편집 내용이 사라질 수 있던 것: 바탕 화면에 남길지 먼저 물음
+- 빈 메모를 정리할 때 파일 내용까지 확인 (읽기에 실패한 메모를 지우지 않음)
+- 메모 합치기의 로컬 사본이 같은 이름의 다른 파일을 덮어쓰지 않고 번호를 붙임
+- 여러 PC의 임시 저장본이 서로 다르면 충돌 사본으로 모두 남김
+- 보조 백업이 같은 크기로 바뀐 파일을 놓치던 것 고침

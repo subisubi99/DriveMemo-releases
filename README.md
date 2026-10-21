@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.25.0 받기 (DriveMemo-0.25.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.25.0/DriveMemo-0.25.0.zip)
+### ⬇ [DriveMemo 0.25.1 받기 (DriveMemo-0.25.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.25.1/DriveMemo-0.25.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,15 +81,10 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.25.0에서 바뀐 내용
+## 0.25.1에서 바뀐 내용
 
-- 디자인 다듬기: 목록 구분 칸·세로선 정리, 짧은 날짜, 실제 파일은 문서 그림, 칸 정렬 버튼은 위쪽 줄로
-- 줄 간격 조절 (상태 표시줄 글꼴 오른쪽 ↕, 화면에서만)
-- 회색 테마 추가
-- 크기 조절·글꼴·줄 간격 칸 위에서 휠로 바로 바꾸기, 글꼴 칸 더블클릭 = 기본 글꼴
-- 글꼴·크기를 바꿔도 보던 자리 그대로
-- 목록 휠 스크롤이 부드럽게
-- 설정 창 등이 부드럽게 닫힘
+- 다른 PC의 공유 설정을 불러오기 전에 지금 설정을 백업해 둠
+- 파일 → '설정 불러오기 되돌리기'로 불러오기 전 설정으로 되돌릴 수 있음
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

@@ -1,7 +1,12 @@
-version=0.24.3
+version=0.25.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.24.3/DriveMemo-update.exe
-sha256=7af205954aa5f4a0f32da5365f74de4d3643312ef13911b927cb624c623d64ab
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.25.0/DriveMemo-update.exe
+sha256=af24f5744a0bbcb17173cfff5deafd3ce173f4c009ae6aba774d353671f8ba30
 notes:
-- 메뉴의 하위 메뉴를 펼칠 때 하얗게 번쩍이던 것 고침
-- 메뉴가 부드럽게 나타남 (밝은·어두운 테마)
+- 디자인 다듬기: 목록 구분 칸·세로선 정리, 짧은 날짜, 실제 파일은 문서 그림, 칸 정렬 버튼은 위쪽 줄로
+- 줄 간격 조절 (상태 표시줄 글꼴 오른쪽 ↕, 화면에서만)
+- 회색 테마 추가
+- 크기 조절·글꼴·줄 간격 칸 위에서 휠로 바로 바꾸기, 글꼴 칸 더블클릭 = 기본 글꼴
+- 글꼴·크기를 바꿔도 보던 자리 그대로
+- 목록 휠 스크롤이 부드럽게
+- 설정 창 등이 부드럽게 닫힘

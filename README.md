@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.26.1 받기 (DriveMemo-0.26.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.1/DriveMemo-0.26.1.zip)
+### ⬇ [DriveMemo 0.26.2 받기 (DriveMemo-0.26.2.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.2/DriveMemo-0.26.2.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,11 +81,13 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.26.1에서 바뀐 내용
+## 0.26.2에서 바뀐 내용
 
-- md·json·html 보기에서 글꼴·크기 조절·줄 간격이 바로 적용됨
-- 스크롤이 모니터 주사율에 맞춰 더 부드러워짐
-- 크기 조절·줄 간격·글꼴 창의 테두리가 끊겨 보이던 것 고침
+- md·html 문서 안의 file: 링크로 프로그램이 실행될 수 있던 것 막음
+- 파일을 읽지 못할 때 다른 곳의 수정을 덮어쓰지 않고 임시 저장
+- 휴지통으로 보낼 때 아직 반영 안 된 마지막 편집까지 함께 보관
+- 읽지 못한 메모를 빈 메모로 보고 지우던 것 고침
+- 다른 PC의 임시 저장본을 지우지 않고 반영
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

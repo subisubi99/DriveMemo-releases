@@ -1,8 +1,10 @@
-version=0.26.1
+version=0.26.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.1/DriveMemo-update.exe
-sha256=042e08ace8a5dcd803ea3c889505daae5f0b1a8b6a83e71f9a992532615a32d7
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.2/DriveMemo-update.exe
+sha256=eb852739b023467282e01f6d0c114eee4ba9c277703a62e4336a86d5487df34c
 notes:
-- md·json·html 보기에서 글꼴·크기 조절·줄 간격이 바로 적용됨
-- 스크롤이 모니터 주사율에 맞춰 더 부드러워짐
-- 크기 조절·줄 간격·글꼴 창의 테두리가 끊겨 보이던 것 고침
+- md·html 문서 안의 file: 링크로 프로그램이 실행될 수 있던 것 막음
+- 파일을 읽지 못할 때 다른 곳의 수정을 덮어쓰지 않고 임시 저장
+- 휴지통으로 보낼 때 아직 반영 안 된 마지막 편집까지 함께 보관
+- 읽지 못한 메모를 빈 메모로 보고 지우던 것 고침
+- 다른 PC의 임시 저장본을 지우지 않고 반영

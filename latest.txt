@@ -1,10 +1,8 @@
-version=0.26.0
+version=0.26.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.0/DriveMemo-update.exe
-sha256=54fe5e34c4282357f020316864e53848f26904b7a5ad39ddbb6b43c980a78666
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.1/DriveMemo-update.exe
+sha256=042e08ace8a5dcd803ea3c889505daae5f0b1a8b6a83e71f9a992532615a32d7
 notes:
-- md·json·html 파일을 정리된 모양으로 보기 (보기/편집 전환: Ctrl+E)
-- HTML 안의 차트(SVG)와 그림을 보기 안에 그려 줌 (인터넷에서 아무것도 불러오지 않음)
-- 가상 메모도 제목이 .md·.html·.json이면 보기로 열림 (다른 PC에서도)
-- 실제 파일 가상 복사본을 텍스트·문서 파일별로 고를 수 있음 (환경 설정 → 저장)
-- 큰 문서를 보기로 열 때 빨라짐
+- md·json·html 보기에서 글꼴·크기 조절·줄 간격이 바로 적용됨
+- 스크롤이 모니터 주사율에 맞춰 더 부드러워짐
+- 크기 조절·줄 간격·글꼴 창의 테두리가 끊겨 보이던 것 고침

@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.25.3 받기 (DriveMemo-0.25.3.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.25.3/DriveMemo-0.25.3.zip)
+### ⬇ [DriveMemo 0.26.0 받기 (DriveMemo-0.26.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.0/DriveMemo-0.26.0.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,14 +81,13 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.25.3에서 바뀐 내용
+## 0.26.0에서 바뀐 내용
 
-- 끊긴 네트워크 폴더의 실제 파일 때문에 화면이 멈추던 것 고침
-- 아직 반영 안 된 임시 저장본이 있으면 동기화 아이콘이 노랗게 표시됨
-- 잘라내기를 클립보드에 못 넣으면 글을 지우지 않음
-- 업데이트·다시 시작 전에 저장 못 한 메모를 먼저 확인
-- 메모 안 찾기에서 한글을 치는 중일 때 엉뚱한 곳을 찾던 것 고침
-- UTF-32 파일을 잘못 읽던 것·CP949로 다 못 읽는 파일을 알림
+- md·json·html 파일을 정리된 모양으로 보기 (보기/편집 전환: Ctrl+E)
+- HTML 안의 차트(SVG)와 그림을 보기 안에 그려 줌 (인터넷에서 아무것도 불러오지 않음)
+- 가상 메모도 제목이 .md·.html·.json이면 보기로 열림 (다른 PC에서도)
+- 실제 파일 가상 복사본을 텍스트·문서 파일별로 고를 수 있음 (환경 설정 → 저장)
+- 큰 문서를 보기로 열 때 빨라짐
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

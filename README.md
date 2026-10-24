@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.26.2 받기 (DriveMemo-0.26.2.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.2/DriveMemo-0.26.2.zip)
+### ⬇ [DriveMemo 0.26.3 받기 (DriveMemo-0.26.3.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.3/DriveMemo-0.26.3.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,13 +81,15 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.26.2에서 바뀐 내용
+## 0.26.3에서 바뀐 내용
 
-- md·html 문서 안의 file: 링크로 프로그램이 실행될 수 있던 것 막음
-- 파일을 읽지 못할 때 다른 곳의 수정을 덮어쓰지 않고 임시 저장
-- 휴지통으로 보낼 때 아직 반영 안 된 마지막 편집까지 함께 보관
-- 읽지 못한 메모를 빈 메모로 보고 지우던 것 고침
-- 다른 PC의 임시 저장본을 지우지 않고 반영
+- 큰 파일을 지운 뒤 휴지통 열기·닫기가 오래 멈추던 것 고침
+- 잘못된 SVG가 든 HTML을 열면 프로그램이 꺼질 수 있던 것 고침
+- 저장 안 된 새 메모를 지워도 휴지통에 남김
+- 저장 실패 중 실제 파일을 목록에서 빼도 편집을 버리지 않음
+- 휴지통에서 즐겨찾기였던 메모를 표시
+- 보기 모드에서 오른쪽 클릭으로 복사·모두 선택
+- 긴 메모를 열 때 조금 빨라짐·링크 밑줄 더 잘 보이게
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

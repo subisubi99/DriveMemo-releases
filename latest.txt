@@ -1,12 +1,8 @@
-version=0.26.3
+version=0.26.4
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.3/DriveMemo-update.exe
-sha256=13af7a13f6bf05584e6dc7e97491bba510fec112711646d6707baf8134643060
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.4/DriveMemo-update.exe
+sha256=b17635ae84db495df4b14ac2b8b7fde52b379560d01c622c09edb80821dbf4d4
 notes:
-- 큰 파일을 지운 뒤 휴지통 열기·닫기가 오래 멈추던 것 고침
-- 잘못된 SVG가 든 HTML을 열면 프로그램이 꺼질 수 있던 것 고침
-- 저장 안 된 새 메모를 지워도 휴지통에 남김
-- 저장 실패 중 실제 파일을 목록에서 빼도 편집을 버리지 않음
-- 휴지통에서 즐겨찾기였던 메모를 표시
-- 보기 모드에서 오른쪽 클릭으로 복사·모두 선택
-- 긴 메모를 열 때 조금 빨라짐·링크 밑줄 더 잘 보이게
+- 큰 HTML 문서 보기가 빨라짐 (열기·메모 옮기기·띄운 창 닫기)
+- 보기에서 글꼴·크기를 바꿔도 보던 자리 유지, 메모마다 보던 자리 기억
+- 목록에서 화살표를 누르고 있을 때 큰 문서에서 끊기지 않음

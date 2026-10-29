@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.26.4 받기 (DriveMemo-0.26.4.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.26.4/DriveMemo-0.26.4.zip)
+### ⬇ [DriveMemo 0.27.0 받기 (DriveMemo-0.27.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.27.0/DriveMemo-0.27.0.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,11 +81,11 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.26.4에서 바뀐 내용
+## 0.27.0에서 바뀐 내용
 
-- 큰 HTML 문서 보기가 빨라짐 (열기·메모 옮기기·띄운 창 닫기)
-- 보기에서 글꼴·크기를 바꿔도 보던 자리 유지, 메모마다 보던 자리 기억
-- 목록에서 화살표를 누르고 있을 때 큰 문서에서 끊기지 않음
+- (실험) HTML 문서를 Edge 엔진으로 보기 — 환경 설정 → 보기 (브라우저와 같은 모양·속도, 스크립트 실행·인터넷 접속 없음)
+- 긴 메모에서 Shift+PgDn으로 고를 때 화면이 튀던 것 고침
+- 기호가 많은 긴 메모의 스크롤이 부드러워짐
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

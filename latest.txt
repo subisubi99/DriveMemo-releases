@@ -1,6 +1,7 @@
-version=0.30.2
+version=0.30.3
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.2/DriveMemo-update.exe
-sha256=58db2fa23e55461dc1fadf5ed23e584fecdac489061b7f232d16e68873af849a
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.3/DriveMemo-update.exe
+sha256=86e0d308e04d99974fb0bcae6992c10da48f12d60e83e9b0c98a22d458f36198
 notes:
-- 검색칸의 ↑ ↓ ✕ 버튼 기호가 잘려 보이던 것 고침
+- 메인 검색이 띄운 창의 메모도 찾음 (찾은 곳을 칠하고, Enter로 따라가면 그 창으로)
+- 검색 결과가 많을 때 PgDn·PgUp으로 한 화면씩 건너뜀

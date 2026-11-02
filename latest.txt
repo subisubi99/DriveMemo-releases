@@ -1,7 +1,6 @@
-version=0.30.3
+version=0.30.4
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.3/DriveMemo-update.exe
-sha256=86e0d308e04d99974fb0bcae6992c10da48f12d60e83e9b0c98a22d458f36198
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.4/DriveMemo-update.exe
+sha256=dca1f5798582c55a478e03824e9ca5099ab65f35ca8cb77121c4e8c43f02e95e
 notes:
-- 메인 검색이 띄운 창의 메모도 찾음 (찾은 곳을 칠하고, Enter로 따라가면 그 창으로)
-- 검색 결과가 많을 때 PgDn·PgUp으로 한 화면씩 건너뜀
+- 검색 결과를 따라가다 띄운 창 메모 차례가 되어도 커서가 검색창에 남아, 모든 메모를 이어서 오갈 수 있음

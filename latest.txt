@@ -1,11 +1,6 @@
-version=0.30.0
+version=0.30.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.0/DriveMemo-update.exe
-sha256=1236ed47091e08e87970d013000a44dc59494c38dffd7e76a9edb7586e8900a4
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.1/DriveMemo-update.exe
+sha256=bdb57fe245b898e0f19650946bacccb3fb98365e5dbea7ca631b70a8941d1d87
 notes:
-- 편집창을 새로 만들었습니다 — 긴 메모·기호가 많은 메모도 열기·스크롤 속도가 대폭 빨라짐 (환경 설정 → 편집창에서 예전 편집창으로 되돌릴 수 있음)
-- 휠 클릭 자동 스크롤, 단어째 한자 변환
-- 탐색기에서 지우거나 옮긴 실제 파일을 목록이 따라감
-- 최근 작업 기록 (작업 칸 오른쪽 클릭·도움말 메뉴, 달력으로 지난 기록 보기)
-- 테마 10개 추가와 랜덤 테마, 테마를 바꾸면 모든 창이 부드럽게 바뀜
-- 여러 창을 띄워 둔 채 켤 때 더 빨리 뜸
+- 검색으로 메모를 열면 찾은 곳을 테마에 맞는 색으로 칠해 바로 보이게 함 (지금 보는 곳은 진하게, 띄운 창 Ctrl+F도 같음)

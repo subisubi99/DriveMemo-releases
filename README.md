@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.30.0 받기 (DriveMemo-0.30.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.0/DriveMemo-0.30.0.zip)
+### ⬇ [DriveMemo 0.30.1 받기 (DriveMemo-0.30.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.1/DriveMemo-0.30.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,14 +81,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.30.0에서 바뀐 내용
+## 0.30.1에서 바뀐 내용
 
-- 편집창을 새로 만들었습니다 — 긴 메모·기호가 많은 메모도 열기·스크롤 속도가 대폭 빨라짐 (환경 설정 → 편집창에서 예전 편집창으로 되돌릴 수 있음)
-- 휠 클릭 자동 스크롤, 단어째 한자 변환
-- 탐색기에서 지우거나 옮긴 실제 파일을 목록이 따라감
-- 최근 작업 기록 (작업 칸 오른쪽 클릭·도움말 메뉴, 달력으로 지난 기록 보기)
-- 테마 10개 추가와 랜덤 테마, 테마를 바꾸면 모든 창이 부드럽게 바뀜
-- 여러 창을 띄워 둔 채 켤 때 더 빨리 뜸
+- 검색으로 메모를 열면 찾은 곳을 테마에 맞는 색으로 칠해 바로 보이게 함 (지금 보는 곳은 진하게, 띄운 창 Ctrl+F도 같음)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

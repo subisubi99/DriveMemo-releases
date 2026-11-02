@@ -1,6 +1,6 @@
-version=0.30.1
+version=0.30.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.1/DriveMemo-update.exe
-sha256=bdb57fe245b898e0f19650946bacccb3fb98365e5dbea7ca631b70a8941d1d87
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.2/DriveMemo-update.exe
+sha256=58db2fa23e55461dc1fadf5ed23e584fecdac489061b7f232d16e68873af849a
 notes:
-- 검색으로 메모를 열면 찾은 곳을 테마에 맞는 색으로 칠해 바로 보이게 함 (지금 보는 곳은 진하게, 띄운 창 Ctrl+F도 같음)
+- 검색칸의 ↑ ↓ ✕ 버튼 기호가 잘려 보이던 것 고침

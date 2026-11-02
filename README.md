@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.30.1 받기 (DriveMemo-0.30.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.1/DriveMemo-0.30.1.zip)
+### ⬇ [DriveMemo 0.30.2 받기 (DriveMemo-0.30.2.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.30.2/DriveMemo-0.30.2.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,9 +81,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.30.1에서 바뀐 내용
+## 0.30.2에서 바뀐 내용
 
-- 검색으로 메모를 열면 찾은 곳을 테마에 맞는 색으로 칠해 바로 보이게 함 (지금 보는 곳은 진하게, 띄운 창 Ctrl+F도 같음)
+- 검색칸의 ↑ ↓ ✕ 버튼 기호가 잘려 보이던 것 고침
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

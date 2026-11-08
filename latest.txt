@@ -1,11 +1,12 @@
-version=0.40.0
+version=0.41.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.40.0/DriveMemo-update.exe
-sha256=68e700beb8ff435843258b7c4575032c1bdf4e5e336f0fe49ec908c93f4f06f7
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.41.0/DriveMemo-update.exe
+sha256=fa88be847f6b12942566fc792b568f30d328c29994b6eba574660b13c626c2e0
 notes:
-- PDF를 앱 안에서 보기 — 쪽 이동·이어보기(보던 쪽부터)·빈 곳을 끌어 손으로 넘기기·확대
-- 책갈피 전면 개편 — 메모·PDF·문서 보기 어디서나, 이름 붙이기, 같은 쪽에 여러 개, 지운 것 되돌리기, 최근 책갈피 바로가기
-- 책갈피 목록 — 문서별로 묶고 자동 분류(이름의 단어별)·정렬·찾기·이름 바꾸기
-- 끌어다 놓기를 형식마다 — txt가 아니면 새로 열기·첨부만·새 메모에 첨부·첨부하고 보기 중 고르고, 환경 설정 → 동작에서 형식별로 정함
-- CSV·TSV를 표로 보기, 그림을 편집창 자리에서 보기
-- 목록의 초록 띄우기 단추를 다시 누르면 메인 창으로 돌아옴
+- 워드·엑셀(docx·xlsx) 파일을 앱 안에서 보기 — 끌어다 놓으면 편집창 자리에 (보기만, 파일은 안 바꿈, 매크로 실행·인터넷 접속 없음)
+- 스크립트로 차트를 그리는 HTML은 처음 열 때 묻고 '이 문서만 스크립트 허용' (허용해도 인터넷 접속은 막음, 묻기는 환경 설정에서 끄기)
+- '가상 메모로 복사·옮기기'의 새 메모가 그 파일 바로 위(같은 폴더)에 생기고 제목은 파일 이름 (PDF·그림·워드·엑셀은 그 파일을 첨부한 메모로)
+- 메모 합치기 결과가 첫 메모 자리(같은 폴더)에 생김
+- 실제 파일 위에 파일을 놓아 첨부하면 새 메모가 그 파일 바로 위에 생김
+- CSV 표의 숫자가 칸 안에서 줄바꿈되지 않음
+- 이미 목록에 있는 파일을 다시 놓으면 알려 줌

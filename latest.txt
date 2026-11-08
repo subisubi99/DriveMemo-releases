@@ -1,12 +1,11 @@
-version=0.41.0
+version=0.42.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.41.0/DriveMemo-update.exe
-sha256=fa88be847f6b12942566fc792b568f30d328c29994b6eba574660b13c626c2e0
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.42.0/DriveMemo-update.exe
+sha256=be8a4eeec1b2f0b424ac2c2dae7740ab8730df6a3b261ff7ace86a9ec9003f48
 notes:
-- 워드·엑셀(docx·xlsx) 파일을 앱 안에서 보기 — 끌어다 놓으면 편집창 자리에 (보기만, 파일은 안 바꿈, 매크로 실행·인터넷 접속 없음)
-- 스크립트로 차트를 그리는 HTML은 처음 열 때 묻고 '이 문서만 스크립트 허용' (허용해도 인터넷 접속은 막음, 묻기는 환경 설정에서 끄기)
-- '가상 메모로 복사·옮기기'의 새 메모가 그 파일 바로 위(같은 폴더)에 생기고 제목은 파일 이름 (PDF·그림·워드·엑셀은 그 파일을 첨부한 메모로)
-- 메모 합치기 결과가 첫 메모 자리(같은 폴더)에 생김
-- 실제 파일 위에 파일을 놓아 첨부하면 새 메모가 그 파일 바로 위에 생김
-- CSV 표의 숫자가 칸 안에서 줄바꿈되지 않음
-- 이미 목록에 있는 파일을 다시 놓으면 알려 줌
+- 휴지통 정리 — 환경 설정에 휴지통 페이지 (30일 지난 메모 저절로 완전 삭제·첨부는 먼저 지우기·크기 제한, 두 PC 공유, 지금 정리·휴지통 비우기 단추)
+- 휴지통 보기에 크기·합계·'n일 뒤 삭제' 표시
+- 그림·PDF 등을 여러 개 놓을 때 [합쳐서 새로 열기] — 모두 첨부한 새 메모 하나로
+- 실제 파일 그림·PDF·워드·엑셀을 합치면 그 파일이 합본 메모에 첨부됨 (예전엔 빠졌음)
+- '첨부하고 보기'로 그림 여러 장을 놓으면 보기 창에서 ← →·휠로 모두 넘겨 봄
+- 환경 설정·휴지통 등 창을 닫으면 DriveMemo 뒤의 다른 프로그램 창이 튀어나오던 것 고침

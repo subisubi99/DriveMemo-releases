@@ -1,11 +1,7 @@
-version=0.43.0
+version=0.43.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.43.0/DriveMemo-update.exe
-sha256=7649ba9f39a5c7469323e409abff336546f40b9f1cdb5944534f1ecd6a6ad3e1
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.43.1/DriveMemo-update.exe
+sha256=9df0ca46be65dc559b781170e77beaa33b5e48b786380d7562f439f5feea9074
 notes:
-- 스크롤하는 동안 위·아래에 반투명 단추 — 누르면 맨 위·맨 아래로 빠르게 미끄러져 감 (편집창과 md·HTML·워드·엑셀·CSV·PDF 보기, 환경 설정 → 편집창에서 끄기)
-- 여러 파일을 끌어다 놓아 첨부하면 파일 이름순으로 붙음
-- [합쳐서 새로 열기]로 만든 메모 제목을 합치기처럼 지어 줌
-- 휴지통 정리로 첨부를 먼저 지우면 휴지통 보기에 바로 보임
-- 띄운 창이 메인 창 상태 표시줄 위에 겹쳐 있으면 배율·글꼴 칸 휠이 메인 창을 바꾸던 것 고침
-- 워드·엑셀·HTML·PDF 보기에 커서가 있어도 상태 표시줄 칸 휠이 먹음
+- 검색칸 숫자에 찾은 메모 중 몇 번째인지도 표시 (예: 1/1 · 메모 2/6)
+- 폴더 이름 바꾸기(F2) 칸이 폴더 이름과 어긋나 보이던 것 고침

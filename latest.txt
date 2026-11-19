@@ -1,7 +1,17 @@
-version=0.43.1
+version=0.45.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.43.1/DriveMemo-update.exe
-sha256=9df0ca46be65dc559b781170e77beaa33b5e48b786380d7562f439f5feea9074
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.45.0/DriveMemo-update.exe
+sha256=29d0d6d37c95dc75b37fdf35329ce858494487c827015d51ee971e213da67a8d
 notes:
-- 검색칸 숫자에 찾은 메모 중 몇 번째인지도 표시 (예: 1/1 · 메모 2/6)
-- 폴더 이름 바꾸기(F2) 칸이 폴더 이름과 어긋나 보이던 것 고침
+- 어디서나 단축키(Win+Alt+N)로 새 메모 — 다른 프로그램을 쓰다가도 바로
+- 빠른 이동(Ctrl+P·[빠른 이동] 버튼) — 제목 몇 글자로 메모를 찾아 바로 열기
+- 체크리스트 — 줄 앞에 [ ]를 쓰면 네모 칸, 누르거나 Ctrl+Enter로 체크
+- 폴더 안에 폴더 (4단계까지) — 폴더 오른쪽 클릭 → '○○ 안에 새 폴더'·폴더 옮기기·하위 폴더 모두 열기
+- 폴더 세로줄 색 고르기 (기본은 테마 강조색)
+- 환경 설정을 새로 정리 — 주제별 14페이지, 스크롤 없이 한눈에
+- 도움말 → 단축키 안내 (Ctrl+/)
+- HTML 문서를 Edge 엔진으로 보기를 기본으로 켬
+- 파일 형식 설정(끌어다 놓기·가상 복사본)을 다른 PC와 같이 씀
+- 환경 설정·휴지통 창이 메인 창을 따라 다른 모니터로 옴
+- 검색칸 숫자에 찾은 메모 중 몇 번째인지도 표시
+- 폴더 이름 바꾸기(F2) 칸이 어긋나 보이던 것 고침

@@ -1,13 +1,12 @@
-version=0.46.0
+version=0.47.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.46.0/DriveMemo-update.exe
-sha256=8ded628c8cf9eba6b7b3efbccbe058b3b2d1e2fe78cd996b5229f37ee5f98f13
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.47.0/DriveMemo-update.exe
+sha256=1dfe26cfc472b2f36b5b24594800c35d2f2034ffb2abdae6a6e504c01a1da06a
 notes:
-- 서식 표시 — **굵게**·==형광펜(음영)==·# 제목을 편집창이 모양으로 (Ctrl+B·Ctrl+Shift+H·Ctrl+1·2·3, 오른쪽 클릭 → 서식, 메모는 txt 그대로)
-- 고른 글만 크기 조절 — 글을 골라 Ctrl+휠 (안 고르면 지금처럼 전체 배율), Ctrl+] 크게·Ctrl+[ 작게, 오른쪽 클릭 → 서식 → 글자 크기 직접 입력
-- 제목 크기를 %로 정하기 (환경 설정 → 편집창 → 서식 표시)
-- 직접 설치한 글꼴도 고르기 (글꼴 파일 오른쪽 클릭 → 설치, 그 글꼴이 없는 PC에서는 맑은 고딕)
-- 도움말 → 업데이트 변경점 — 직전에 쓰던 버전 다음부터 바뀐 점을 버전별로 모아 보기
-- 새 메모가 열리는 곳 고르기 — 메인 창·띄운 창마다 (환경 설정 → 새 메모)
-- 폴더를 골라 둔 채 새 폴더를 만들면 그 폴더 안에 생김
-- 어려운 기능을 처음 쓸 때 말풍선으로 사용법 안내 (처음 몇 번만)
+- 기울임(Ctrl+I)·밑줄(Ctrl+U)·취소선(Ctrl+Shift+X) 서식, 위쪽 줄 [서식 ▾] 단추 (메인 창·띄운 창)
+- 말풍선 도움말 — 기능을 쓰면 그 옆에 사용법 안내 (환경 설정 → 도움말에서 언제·얼마나 고르기, 사라진 뒤 F1 = 다시 보기, ESC = 닫기)
+- 업데이트 변경점 창 스크롤이 끊기던 것 고침
+- 설치한 글꼴이 목록에 안 나오던 경우 고침 (영어 이름으로 설치된 글꼴)
+- 고른 글 크기를 휠로 여러 번 바꿔도 Ctrl+Z 한 번에 되돌림
+- 크기 키운 글 안의 형광펜·여러 굵은 제목 줄 굵게 빼기 등 서식 표시 다듬기
+- 환경 설정: 시작과 종료의 두 선택이 서로 풀리던 것·버튼 글자가 잘리던 것 고침

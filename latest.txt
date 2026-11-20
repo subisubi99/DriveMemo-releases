@@ -1,17 +1,13 @@
-version=0.45.0
+version=0.46.0
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.45.0/DriveMemo-update.exe
-sha256=29d0d6d37c95dc75b37fdf35329ce858494487c827015d51ee971e213da67a8d
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.46.0/DriveMemo-update.exe
+sha256=8ded628c8cf9eba6b7b3efbccbe058b3b2d1e2fe78cd996b5229f37ee5f98f13
 notes:
-- 어디서나 단축키(Win+Alt+N)로 새 메모 — 다른 프로그램을 쓰다가도 바로
-- 빠른 이동(Ctrl+P·[빠른 이동] 버튼) — 제목 몇 글자로 메모를 찾아 바로 열기
-- 체크리스트 — 줄 앞에 [ ]를 쓰면 네모 칸, 누르거나 Ctrl+Enter로 체크
-- 폴더 안에 폴더 (4단계까지) — 폴더 오른쪽 클릭 → '○○ 안에 새 폴더'·폴더 옮기기·하위 폴더 모두 열기
-- 폴더 세로줄 색 고르기 (기본은 테마 강조색)
-- 환경 설정을 새로 정리 — 주제별 14페이지, 스크롤 없이 한눈에
-- 도움말 → 단축키 안내 (Ctrl+/)
-- HTML 문서를 Edge 엔진으로 보기를 기본으로 켬
-- 파일 형식 설정(끌어다 놓기·가상 복사본)을 다른 PC와 같이 씀
-- 환경 설정·휴지통 창이 메인 창을 따라 다른 모니터로 옴
-- 검색칸 숫자에 찾은 메모 중 몇 번째인지도 표시
-- 폴더 이름 바꾸기(F2) 칸이 어긋나 보이던 것 고침
+- 서식 표시 — **굵게**·==형광펜(음영)==·# 제목을 편집창이 모양으로 (Ctrl+B·Ctrl+Shift+H·Ctrl+1·2·3, 오른쪽 클릭 → 서식, 메모는 txt 그대로)
+- 고른 글만 크기 조절 — 글을 골라 Ctrl+휠 (안 고르면 지금처럼 전체 배율), Ctrl+] 크게·Ctrl+[ 작게, 오른쪽 클릭 → 서식 → 글자 크기 직접 입력
+- 제목 크기를 %로 정하기 (환경 설정 → 편집창 → 서식 표시)
+- 직접 설치한 글꼴도 고르기 (글꼴 파일 오른쪽 클릭 → 설치, 그 글꼴이 없는 PC에서는 맑은 고딕)
+- 도움말 → 업데이트 변경점 — 직전에 쓰던 버전 다음부터 바뀐 점을 버전별로 모아 보기
+- 새 메모가 열리는 곳 고르기 — 메인 창·띄운 창마다 (환경 설정 → 새 메모)
+- 폴더를 골라 둔 채 새 폴더를 만들면 그 폴더 안에 생김
+- 어려운 기능을 처음 쓸 때 말풍선으로 사용법 안내 (처음 몇 번만)

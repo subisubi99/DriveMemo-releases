@@ -1,12 +1,6 @@
-version=0.47.0
+version=0.47.1
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.47.0/DriveMemo-update.exe
-sha256=1dfe26cfc472b2f36b5b24594800c35d2f2034ffb2abdae6a6e504c01a1da06a
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.47.1/DriveMemo-update.exe
+sha256=5a1fc3051a72bd10e6bf6d482c3e78300873909ccc1340ac0bc7038eb533270a
 notes:
-- 기울임(Ctrl+I)·밑줄(Ctrl+U)·취소선(Ctrl+Shift+X) 서식, 위쪽 줄 [서식 ▾] 단추 (메인 창·띄운 창)
-- 말풍선 도움말 — 기능을 쓰면 그 옆에 사용법 안내 (환경 설정 → 도움말에서 언제·얼마나 고르기, 사라진 뒤 F1 = 다시 보기, ESC = 닫기)
-- 업데이트 변경점 창 스크롤이 끊기던 것 고침
-- 설치한 글꼴이 목록에 안 나오던 경우 고침 (영어 이름으로 설치된 글꼴)
-- 고른 글 크기를 휠로 여러 번 바꿔도 Ctrl+Z 한 번에 되돌림
-- 크기 키운 글 안의 형광펜·여러 굵은 제목 줄 굵게 빼기 등 서식 표시 다듬기
-- 환경 설정: 시작과 종료의 두 선택이 서로 풀리던 것·버튼 글자가 잘리던 것 고침
+- 끌 때 2~5초 걸리던 것 고침 — 보조 백업이 바뀐 파일만 확인 (메모가 많아도 빠름)

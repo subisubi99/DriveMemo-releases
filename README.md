@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-### ⬇ [DriveMemo 0.47.0 받기 (DriveMemo-0.47.0.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.47.0/DriveMemo-0.47.0.zip)
+### ⬇ [DriveMemo 0.47.1 받기 (DriveMemo-0.47.1.zip)](https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.47.1/DriveMemo-0.47.1.zip)
 
 1. 압축을 원하는 폴더에 풉니다. (예: `C:\Tools\DriveMemo`)
 2. `DriveMemo.exe`를 실행합니다. 설치 과정은 없습니다.
@@ -81,15 +81,9 @@
 DriveMemo 안에서 **도움말 → 업데이트 확인**을 누르면 새 버전을 받아서 바로 바꿉니다. 메모와 설정은 그대로 유지됩니다.
 시작할 때와 켜 둔 동안 6시간마다 자동으로도 확인합니다.
 
-## 0.47.0에서 바뀐 내용
+## 0.47.1에서 바뀐 내용
 
-- 기울임(Ctrl+I)·밑줄(Ctrl+U)·취소선(Ctrl+Shift+X) 서식, 위쪽 줄 [서식 ▾] 단추 (메인 창·띄운 창)
-- 말풍선 도움말 — 기능을 쓰면 그 옆에 사용법 안내 (환경 설정 → 도움말에서 언제·얼마나 고르기, 사라진 뒤 F1 = 다시 보기, ESC = 닫기)
-- 업데이트 변경점 창 스크롤이 끊기던 것 고침
-- 설치한 글꼴이 목록에 안 나오던 경우 고침 (영어 이름으로 설치된 글꼴)
-- 고른 글 크기를 휠로 여러 번 바꿔도 Ctrl+Z 한 번에 되돌림
-- 크기 키운 글 안의 형광펜·여러 굵은 제목 줄 굵게 빼기 등 서식 표시 다듬기
-- 환경 설정: 시작과 종료의 두 선택이 서로 풀리던 것·버튼 글자가 잘리던 것 고침
+- 끌 때 2~5초 걸리던 것 고침 — 보조 백업이 바뀐 파일만 확인 (메모가 많아도 빠름)
 
 지난 버전의 변경 내역은 [CHANGELOG.md](CHANGELOG.md)에 있습니다.
 

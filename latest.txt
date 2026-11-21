@@ -1,6 +1,9 @@
-version=0.47.1
+version=0.47.2
 exe=https://raw.githubusercontent.com/subisubi99/DriveMemo-releases/main/DriveMemo.exe
-exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.47.1/DriveMemo-update.exe
-sha256=5a1fc3051a72bd10e6bf6d482c3e78300873909ccc1340ac0bc7038eb533270a
+exe_counted=https://github.com/subisubi99/DriveMemo-releases/releases/download/v0.47.2/DriveMemo-update.exe
+sha256=500735c891e435e980ea306aee6ceb63f6ff7d5faf51776783b5fcacc9cee812
 notes:
-- 끌 때 2~5초 걸리던 것 고침 — 보조 백업이 바뀐 파일만 확인 (메모가 많아도 빠름)
+- 빈 메모에 캡처·그림을 Ctrl+V 하면 그림 메모 — 편집창 자리에 그림이 바로 보임 (제목 = 그림 이름, 위쪽 [편집] = 글 쓰기)
+- 다른 앱이 {028A…}.png 같은 알아볼 수 없는 이름으로 복사한 그림은 '붙여넣은 그림 날짜-시각'으로 이름을 바꿔 붙임
+- 그림을 끌어 옮길 때 뚝뚝 끊기던 것 고침 (그림 보기 칸·그림 보기 창)
+- 첨부 줄·그림 미리보기 말풍선 도움말
